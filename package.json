@@ -1,0 +1,17 @@
+{
+  "name": "coinmarketcap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coinmarketcap-cli": "^0.3.1",
+    "coinmarketcap-cli-api": "^1.1.0",
+    "lowdb": "^1.0.0",
+    "pushover-notifications": "^0.2.4"
+  }
+}
